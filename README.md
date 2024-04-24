@@ -17,4 +17,22 @@ Este é um simples sistema de gerenciamento de clientes desenvolvido em C#. Ele 
 ## Como Usar
 
 1. Clone este repositório:
+git clone https://github.com/luizgustavo-11/sistemaGerenciamentoClientes-C-Sharp.git
 
+2. Navegue até o diretório do projeto:
+
+3. Compile o projeto:
+
+dotnet build
+
+markdown
+Copy code
+
+4. Execute o programa:
+
+dotnet run
+5. Siga as instruções no console para interagir com o sistema de gerenciamento de clientes.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
