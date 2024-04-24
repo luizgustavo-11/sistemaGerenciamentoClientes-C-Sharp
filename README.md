@@ -23,15 +23,18 @@ git clone https://github.com/luizgustavo-11/sistemaGerenciamentoClientes-C-Sharp
 cd sistemaGerenciamentoClientes-C-Sharp
 
 3. Compile o projeto:
-
 dotnet build
-4. Execute o programa:
 
+5. Execute o programa:
 dotnet run
 
-dotnet run
 5. Siga as instruções no console para interagir com o sistema de gerenciamento de clientes.
+6. Caso prefira, também esta disponibilizado o arquivo exe.
 
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
